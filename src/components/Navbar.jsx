@@ -37,6 +37,7 @@ const Navbar = () => {
             <ul className={`${toggle ? 'absolute top-0 left-0 bg-white w-full px-8 md:hidden z-20' : 'hidden'}`}>
                 <li><Link to="/" onClick={handleClick}>Home</Link></li>
                 <li><a href="/about" onClick={handleClick}>About</a></li>
+                <li><a href="/programs" onClick={handleClick}>Programs</a></li>
 
                 <li><Link to="/products" onClick={handleClick}>Products</Link></li>
                 <li><Link to="/partners" onClick={handleClick}>Partners</Link></li>
