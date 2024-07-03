@@ -8,7 +8,7 @@ const Header = () => {
                 <img
                     src={head}
                     alt="Background Image"
-                    className="w-full h-full object-cover opacity-50"
+                    className="w-full h-full object-cover "
                 />
             </div>
             <div className="absolute bottom-0 left-0 mx-4 mb-8 z-10 text-left block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700 justify-start items-start">

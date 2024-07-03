@@ -7,7 +7,7 @@ import ProductPage from './pages/ProductPage';
 
 function App() {
   const { loading, data, error } = useFetch('https://apiv1.planetpluskenya.co.ke/api.php?endpoint=all');
-console.log(data);
+  console.log(data);
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error!</p>;
 
