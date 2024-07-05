@@ -17,6 +17,8 @@ import History from "./History";
 import Updates from "./Updates";
 import Description from "./Description";
 import HoneyDesc from "./HoneyDesc";
+import Board from "./Board";
+import Quote from "./Quote";
 
 export {
   Navbar,
@@ -38,4 +40,6 @@ export {
   Updates,
   Description,
   HoneyDesc,
+  Board,
+  Quote,
 };

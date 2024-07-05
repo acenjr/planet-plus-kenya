@@ -50,6 +50,9 @@ import grid21 from "./grid21-min.jpg";
 import grid22 from "./grid22-min.jpg";
 import grid23 from "./grid23-min.jpg";
 import grid24 from "./grid24-min.jpg";
+import jonathan from "./jonathan.jpg";
+import paul from "./paul.jpg";
+import timpian from "./timpian.jpg";
 
 export {
   restoration,
@@ -104,4 +107,7 @@ export {
   grid22,
   grid23,
   grid24,
+  jonathan,
+  paul,
+  timpian,
 };
