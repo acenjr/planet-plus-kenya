@@ -53,6 +53,7 @@ import grid24 from "./grid24-min.jpg";
 import jonathan from "./jonathan.jpg";
 import paul from "./paul.jpg";
 import timpian from "./timpian.jpg";
+import bag from "./bag.jpeg";
 
 export {
   restoration,
@@ -110,4 +111,5 @@ export {
   jonathan,
   paul,
   timpian,
+  bag,
 };

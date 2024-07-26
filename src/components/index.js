@@ -19,6 +19,9 @@ import Description from "./Description";
 import HoneyDesc from "./HoneyDesc";
 import Board from "./Board";
 import Quote from "./Quote";
+import PageProductCards from "./ProductCard";
+import DualSenseControllerCard from "./ProductsCard";
+import BagCard from "./BagCard";
 
 export {
   Navbar,
@@ -42,4 +45,7 @@ export {
   HoneyDesc,
   Board,
   Quote,
+  PageProductCards,
+  DualSenseControllerCard,
+  BagCard,
 };

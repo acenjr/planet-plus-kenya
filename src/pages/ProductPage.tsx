@@ -1,12 +1,14 @@
 import React from "react";
-import { Footer, HoneyDesc, Navbar, Product } from "../components";
+import { BagCard, DualSenseControllerCard, Footer, HoneyDesc, Navbar, PageProductCards } from "../components";
 
 const ProductPage = () => {
   return (
     <div>
       <Navbar />
+      {/* <PageProductCards /> */}
       <HoneyDesc />
-      <Product />
+      <DualSenseControllerCard />
+      <BagCard/>   
       <Footer />
     </div>
   );
