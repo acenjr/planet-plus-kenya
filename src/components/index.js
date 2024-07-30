@@ -22,7 +22,7 @@ import Quote from "./Quote";
 import PageProductCards from "./ProductCard";
 import DualSenseControllerCard from "./ProductsCard";
 import BagCard from "./BagCard";
-
+import CardGrid from "./CardGrid";
 export {
   Navbar,
   Blogs,
@@ -48,4 +48,5 @@ export {
   PageProductCards,
   DualSenseControllerCard,
   BagCard,
+  CardGrid
 };

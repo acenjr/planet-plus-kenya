@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+
+/* src/index.css */
+body {
+  @apply font-sans;
+}
+
 @layer base {
   li{
       @apply p-4
