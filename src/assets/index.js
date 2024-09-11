@@ -54,8 +54,12 @@ import jonathan from "./jonathan.jpg";
 import paul from "./paul.jpg";
 import timpian from "./timpian.jpg";
 import bag from "./bag.jpeg";
+import hannah from './hannah.jpeg'
+import esther from './esther.jpg'
 
 export {
+  hannah, 
+  esther,
   restoration,
   education,
   ckl,

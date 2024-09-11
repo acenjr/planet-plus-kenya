@@ -1,5 +1,5 @@
 import React from 'react'
-import { paul, timpian, jonathan } from '../assets'
+import { paul, timpian, jonathan, hannah, esther } from '../assets'
 
 const Board = () => {
     return (
@@ -29,6 +29,20 @@ const Board = () => {
                         <img src={jonathan} className="w-full h-[80%] object-cover rounded-t-md" alt="" />
                         <div className="p-4">
                             <h4 className="text-2xl text-center font-extrabold">Jonathan Ndeveni</h4>
+
+                        </div>
+                    </div>
+                    <div className="bg-white rounded-md h-[400px] flex flex-col shadow-md">
+                        <img src={hannah} className="w-full h-[80%] object-cover rounded-t-md" alt="" />
+                        <div className="p-4">
+                            <h4 className="text-2xl text-center font-extrabold">Hannah Abdu-rahman</h4>
+
+                        </div>
+                    </div>
+                    <div className="bg-white rounded-md h-[400px] flex flex-col shadow-md">
+                        <img src={esther} className="w-full h-[80%] object-cover rounded-t-md" alt="" />
+                        <div className="p-4">
+                            <h4 className="text-2xl text-center font-extrabold">Esther Yongo</h4>
 
                         </div>
                     </div>

@@ -112,10 +112,10 @@ const AllPrograms = () => {
                  xl:ml-24">
                             <div className="flex flex-col p-12 md:px-16">
                                 <h2 className="text-2xl font-medium uppercase text-green-800 lg:text-4xl">
-                                    5. Gender, Children, Youth and Climate Action.
+                                    5. Environmental, Social and Governance (ESG) program.
                                 </h2>
                                 <p className="mt-4">
-                                    The Gender, Children, Youth, and Climate Action (GCYCA) program aims to integrate gender considerations, empower children and youth, and address the unique vulnerabilities and potential contributions of these groups in climate action. This program seeks to create inclusive, equitable, and effective strategies for climate mitigation and adaptation.
+                                    Environmental, Social and Governance (ESG) program aims to integrate gender considerations, empower children and youth, and address the unique vulnerabilities and potential contributions of these groups in climate action. This program seeks to create inclusive, equitable, and effective strategies for climate mitigation and adaptation.
 
                                 </p>
                             </div>

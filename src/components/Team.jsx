@@ -43,7 +43,7 @@ const Team = () => {
                         <img src={marleen} className="w-full h-[80%] object-cover rounded-t-md" alt="Marleen Atieno" />
                         <div className="p-4">
                             <h4 className="text-xl font-extrabold">Marleen Atieno</h4>
-                            <p className="text-xs mt-1">Gender, Children, and Climate Action.</p>
+                            <p className="text-xs mt-1">Environmental, Social ang Governance (ESG) Program.</p>
                         </div>
                     </div>
                     <div className="bg-white rounded-md h-[400px] flex flex-col shadow-md">
